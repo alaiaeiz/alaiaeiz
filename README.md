@@ -21,13 +21,15 @@ Building digital solutions through code, creativity, and continuous learning.
 
 ## About Me
 
-Hi! I'm **Amelia**, an Informatics student interested in software development and emerging technologies.
+Hi! I'm Amelia, a fifth-semester Informatics undergraduate at Universitas Sultan Ageng Tirtayasa, with a growing interest in software engineering, frontend development, and artificial intelligence.
 
-My current focus is **Web Development**, where I enjoy building applications, exploring modern frameworks, and improving my software development skills.
+I enjoy understanding how software works beyond what users see on the screen. I'm interested in how applications are structured, how different components interact, how data flows through a system, and how thoughtful engineering decisions contribute to building maintainable and reliable software. My development experience so far has primarily focused on frontend development, where I enjoy turning ideas and requirements into functional, intuitive user interfaces.
 
-I'm also interested in **Artificial Intelligence and Machine Learning**, and continuously expanding my knowledge in these fields.
+I've worked with **HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS** for frontend development, alongside **PHP, Laravel, Java, and Node.js** in backend development. I've also worked with **MySQL** for relational database management and use tools such as Git and GitHub to support my development workflow.
 
-I believe that the best way to learn is by building, experimenting, and solving real-world problems.
+Beyond web development, I'm also exploring **artificial intelligence and machine learning**. I've had some hands-on experience with AI/ML projects and tools within the Python ecosystem, including libraries for data processing and machine learning. While I'm still exploring different areas of AI, I'm particularly interested in understanding how machine learning can be integrated into software applications to solve practical problems.
+
+I enjoy learning by building things, experimenting with different technologies, and understanding the reasoning behind how they work. For me, software development is not just about making an application function, but also about understanding the systems behind it and continuously finding better ways to build it.
 
 ## What I'm Working On
 
