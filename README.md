@@ -62,6 +62,6 @@ Always open to learning, collaboration, and new opportunities.
 
 [GitHub](https://github.com/alaiaeiz) · [LinkedIn](https://www.linkedin.com/in/ameliaputriaqiilah)
 
-<sub>Designed with curiosity. Built with consistency.</sub>
+<sub>Learning as I go, building as I grow.</sub>
 
 </div>
