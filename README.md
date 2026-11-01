@@ -50,35 +50,6 @@ I believe that the best way to learn is by building, experimenting, and solving 
   <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,mysql,git,github,vscode" />
 </p>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AssetGuard</h3>
-      <p>A web application project built with React.</p>
-      <a href="https://github.com/alaiaeiz/assetguard">View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>Paws Patrol App</h3>
-      <p>A mobile application project developed with Flutter.</p>
-      <a href="https://github.com/alaiaeiz/paws-patrol-app">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Silverstone Canteen</h3>
-      <p>A mobile application project built with Flutter.</p>
-      <a href="https://github.com/alaiaeiz/silverstone-canteen">View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>Petshop Inventory System</h3>
-      <p>An inventory management project developed with Java.</p>
-      <a href="https://github.com/alaiaeiz/Sistem-Inventaris-Paws-Patrol-Petshop-">View Repository →</a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <div align="center">
