@@ -79,16 +79,6 @@ I believe that the best way to learn is by building, experimenting, and solving 
   </tr>
 </table>
 
-## GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alaiaeiz&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaiaeiz&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
-
-</div>
-
 ---
 
 <div align="center">
