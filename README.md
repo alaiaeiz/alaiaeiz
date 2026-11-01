@@ -21,7 +21,7 @@ Building digital solutions through code, creativity, and continuous learning.
 
 ## About Me
 
-Hi! I'm Amelia, a fifth-semester Informatics undergraduate at Universitas Sultan Ageng Tirtayasa, with a growing interest in software engineering, frontend development, and artificial intelligence.
+Hi! I'm **Amelia**, a fifth-semester Informatics undergraduate at Universitas Sultan Ageng Tirtayasa, with a growing interest in software engineering, frontend development, and artificial intelligence.
 
 I enjoy understanding how software works beyond what users see on the screen. I'm interested in how applications are structured, how different components interact, how data flows through a system, and how thoughtful engineering decisions contribute to building maintainable and reliable software. My development experience so far has primarily focused on frontend development, where I enjoy turning ideas and requirements into functional, intuitive user interfaces.
 
